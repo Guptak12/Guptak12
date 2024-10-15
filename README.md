@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Guptak12
 - 👀 I’m interested in WEB DEVELOPEMENT
-- 🌱 I’m currently learning JAVASCRIPT/NODEJS
+- 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me-> insta id- kushg_12
+- 📫 How to reach me-> insta id- kushg.12
 
 <!---
 Guptak12/Guptak12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
