@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guptak12
-- 👀 I’m interested in WEB DEVELOPEMENT
-- 🌱 I’m currently learning PYTHON
+- 👀 I’m interested in WEB3
+- 🌱 I’m currently learning SOLIDITY
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me-> insta id- kushg.12
 
