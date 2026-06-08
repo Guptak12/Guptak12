@@ -1,5 +1,5 @@
 # About Me:
-Hi, I’m Kush, 2nd year undergrad at IIT Roorkee.<br>I am currently making open source contributions under different orgs.
+Hi, I’m Kush, 3rd year undergrad at IIT Roorkee.<br>I am currently making open source contributions under different orgs.
 
 
 ## Socials:
