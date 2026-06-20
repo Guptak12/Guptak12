@@ -2,7 +2,7 @@
 
 Hi, I’m **Kush Gupta**, a Software Developer and undergrad at **IIT Roorkee**. 
 
-I approach software engineering with a unique **systems-thinking and process engineering mindset** (honed through my background in Chemical Engineering). I love breaking down complex architectures, optimizing distributed systems, and building autonomous, real-world solutions. 
+I approach software engineering with a unique **systems-thinking and process engineering mindset** . I love breaking down complex architectures, optimizing distributed systems, and building autonomous, real-world solutions. 
 
 ---
 
