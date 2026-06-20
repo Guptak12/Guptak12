@@ -1,5 +1,17 @@
-# About Me:
-Hi, I’m Kush, 3rd year undergrad at IIT Roorkee.<br>I am currently making open source contributions under different orgs.
+# About Me
+
+Hi, I’m **Kush Gupta**, a Software Developer and undergrad at **IIT Roorkee**. 
+
+I approach software engineering with a unique **systems-thinking and process engineering mindset** (honed through my background in Chemical Engineering). I love breaking down complex architectures, optimizing distributed systems, and building autonomous, real-world solutions. 
+
+---
+
+### 🛠️ What I'm Up To
+* **Systems & Architecture:** Deeply passionate about distributed systems, performance optimization, and rigorous problem-solving.
+* **Agentic AI:** Designing autonomous agent workflows and multimodal transit engines (like *ThinkTrip AI*).
+* **Web3 & DeFi:** Building secure, scalable infrastructure, decentralized finance protocols (*DeRisk Protocol*), and zero-knowledge proof implementations.
+* **Hackathons & Open Source:** Actively competing in global hackathons (like *ETHGlobal New Delhi*, where I built *AgentX-402* on Polygon) and contributing to open-source systems like *WasmEdge*.
+* **DSA:** Constantly refining algorithms and optimizing time complexity, primarily using C++.
 
 
 ## Socials:
