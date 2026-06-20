@@ -6,13 +6,27 @@ I approach software engineering with a unique **systems-thinking and process eng
 
 ---
 
-### 🛠️ What I'm Up To
+### What I'm Up To
 * **Systems & Architecture:** Deeply passionate about distributed systems, performance optimization, and rigorous problem-solving.
-* **Agentic AI:** Designing autonomous agent workflows and multimodal transit engines (like *ThinkTrip AI*).
+* **Agentic AI:** Designing autonomous agent workflows and multimodal transit engines.
 * **Web3 & DeFi:** Building secure, scalable infrastructure, decentralized finance protocols (*DeRisk Protocol*), and zero-knowledge proof implementations.
-* **Hackathons & Open Source:** Actively competing in global hackathons (like *ETHGlobal New Delhi*, where I built *AgentX-402* on Polygon) and contributing to open-source systems like *WasmEdge*.
 * **DSA:** Constantly refining algorithms and optimizing time complexity, primarily using C++.
 
+## Featured Projects
+
+### [BenchGrid](https://github.com/Guptak12/IICPC-BenchGrid)
+*An event-driven, microservice-based benchmarking platform built for real-time trading engines.*
+* **System Architecture:** Designed and implemented a high-throughput, low-latency microservice architecture to safely execute and benchmark untrusted C++ engines within a simulated real-time trading competition environment.
+* **Key Focus:** Asynchronous messaging, high-concurrency event handling, and reliable system performance under load.
+* **Tech Stack:** `Go` | `Apache Kafka` | `Redis` | `C++`
+
+---
+
+### [Aura](https://github.com/Guptak12/cig-project)
+*A scalable event and media management platform engineered for seamless content delivery.*
+* **System Architecture:** Architected the technical infrastructure and robust deployment pipelines to support concurrent media handling and end-to-end event orchestration.
+* **Key Focus:** High-availability asset delivery, resilient backend systems, and responsive full-stack architecture.
+* **Tech Stack:** `Go` | `Node.js` | `Next.js` | `Cloud Infrastructure`
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kushg.12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kush-gupta-b11577210) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/stackedshadow) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushg231@gmail.com) 
